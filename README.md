@@ -18,3 +18,5 @@ git clone git@github.com:iTraining/Client.git
 
 ```
 即可通过微信小程序开发工具提供MiniProgram目录进行开发
+
+> 项目更新只需对应前后端部分更新内容即可
